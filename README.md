@@ -5,9 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://danielecampogiani.com/](https://danielecampogiani.com/)
 
-- 📝 I regulary write articles on [https://danielecampogiani.com/blog/](https://danielecampogiani.com/blog/)
-
-- 📫 How to reach me **daniele.campogiani@gmail.com**
+- 📝 I write articles on [https://danielecampogiani.com/blog/](https://danielecampogiani.com/blog/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dcampogiani&show_icons=true" alt="dcampogiani" /></p>
 
