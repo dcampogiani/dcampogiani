@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **daniele.campogiani@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcampogiani&layout=compact&hide=html" alt="dcampogiani" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dcampogiani&show_icons=true" alt="dcampogiani" /></p>
 
 <p align="center">
