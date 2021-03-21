@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniele</h1>
 <h3 align="center">An Android/Kotlin Developer from Italy</h3>
 
-- 🔭 I’m currently working on [Yoox](https://play.google.com/store/apps/details?id=com.yoox)
+- 🔭 I’m currently working on [Subito](https://play.google.com/store/apps/details?id=it.subito)
 
 - 👨‍💻 All of my projects are available at [https://danielecampogiani.com/](https://danielecampogiani.com/)
 
